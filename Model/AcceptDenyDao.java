@@ -1,4 +1,4 @@
-package com.Quinnox.Model;
+
 
 import java.sql.Connection;
 import java.sql.ResultSet;
